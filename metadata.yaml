@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7770'
     url: http://www.gutenberg.org/2009/agents/7770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18046#Una-notte-fataleovvero-il-racconto-dell-esiliato---bozzetti-milanesi
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2006-03-24'
 gutenberg_type: Text
