@@ -1,0 +1,27 @@
+_repo: Una-notte-fataleovvero-il-racconto-dell-esiliato---bozzetti-milanesi_18046
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Porati, R. A.
+    gutenberg_agent_id: '7770'
+    url: http://www.gutenberg.org/2009/agents/7770
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2006-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18046'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: 'Una notte fatale
+
+  ovvero il racconto dell''esiliato / bozzetti milanesi'
+url: http://www.gutenberg.org/ebooks/18046
